@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sunil Vishwakarma</h1>
-<h3 align="center">A passionate Data analyst</h3>
+<h1 align="left">Hi 👋, I'm Sunil Vishwakarma</h1>
+<h3 align="left">A passionate Data analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="thevishwakarma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thevishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="thevishwakarma" /> </p>
 
-<p align="left"> <a href="https://twitter.com/whatifneil" target="blank"><img src="https://img.shields.io/twitter/follow/whatifneil?logo=twitter&style=for-the-badge" alt="whatifneil" /></a> </p>
+<p align="center"> <a href="https://twitter.com/whatifneil" target="blank"><img src="https://img.shields.io/twitter/follow/whatifneil?logo=twitter&style=for-the-badge" alt="whatifneil" /></a> </p>
 
 - 🔭 I’m currently working on [AtliQ Hardware sales insights using SQL and PowerBI](https://github.com/TheVishwakarma/Sales-Insight-Dashboard-using-PowerBI.git)
 
